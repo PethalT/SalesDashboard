@@ -4,8 +4,11 @@
 Interactive dashboard providing insights into sales performance across regions, product lines, and time periods.
 
 **Key Features:**
+
 *Revenue and profit trend analysis
+
 *Regional and product category performance breakdown
+
 *KPI cards, slicers, charts, and dynamic visual drill-downs
 
 **Tech Used:**
